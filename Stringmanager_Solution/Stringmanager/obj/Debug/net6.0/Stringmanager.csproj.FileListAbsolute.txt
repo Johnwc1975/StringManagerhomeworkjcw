@@ -1,0 +1,14 @@
+C:\Users\jonathan.wilkerson\source\repos\Stringmanager_Solution\Stringmanager\bin\Debug\net6.0\Stringmanager.exe
+C:\Users\jonathan.wilkerson\source\repos\Stringmanager_Solution\Stringmanager\bin\Debug\net6.0\Stringmanager.deps.json
+C:\Users\jonathan.wilkerson\source\repos\Stringmanager_Solution\Stringmanager\bin\Debug\net6.0\Stringmanager.runtimeconfig.json
+C:\Users\jonathan.wilkerson\source\repos\Stringmanager_Solution\Stringmanager\bin\Debug\net6.0\Stringmanager.dll
+C:\Users\jonathan.wilkerson\source\repos\Stringmanager_Solution\Stringmanager\bin\Debug\net6.0\Stringmanager.pdb
+C:\Users\jonathan.wilkerson\source\repos\Stringmanager_Solution\Stringmanager\obj\Debug\net6.0\Stringmanager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jonathan.wilkerson\source\repos\Stringmanager_Solution\Stringmanager\obj\Debug\net6.0\Stringmanager.AssemblyInfoInputs.cache
+C:\Users\jonathan.wilkerson\source\repos\Stringmanager_Solution\Stringmanager\obj\Debug\net6.0\Stringmanager.AssemblyInfo.cs
+C:\Users\jonathan.wilkerson\source\repos\Stringmanager_Solution\Stringmanager\obj\Debug\net6.0\Stringmanager.csproj.CoreCompileInputs.cache
+C:\Users\jonathan.wilkerson\source\repos\Stringmanager_Solution\Stringmanager\obj\Debug\net6.0\Stringmanager.dll
+C:\Users\jonathan.wilkerson\source\repos\Stringmanager_Solution\Stringmanager\obj\Debug\net6.0\refint\Stringmanager.dll
+C:\Users\jonathan.wilkerson\source\repos\Stringmanager_Solution\Stringmanager\obj\Debug\net6.0\Stringmanager.pdb
+C:\Users\jonathan.wilkerson\source\repos\Stringmanager_Solution\Stringmanager\obj\Debug\net6.0\Stringmanager.genruntimeconfig.cache
+C:\Users\jonathan.wilkerson\source\repos\Stringmanager_Solution\Stringmanager\obj\Debug\net6.0\ref\Stringmanager.dll
